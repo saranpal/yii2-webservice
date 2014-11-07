@@ -28,3 +28,5 @@ return [
     'charset' => 'utf8',
 ];
 ```
+
+For more information, please take a look http://www.yiiframework.com/doc-2.0/guide-rest-quick-start.html
